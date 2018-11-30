@@ -20,8 +20,9 @@
     <Name>Robert Schidner</Name>
     <Country>Russia</Country>
   </Customer>
-  <Version>
-    <Number>2018.1.1.1</Number>
-  </Version>
+  <Customer>
+    <Id>5</Id>
+    <Name>Version</Name>
+    <Country>2018.1.1.1</Country>
+  </Customer>
 </Customers>
-
